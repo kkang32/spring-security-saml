@@ -62,7 +62,7 @@
 	</scm>
 	<properties>
 		<spring.framework.version>4.3.18.RELEASE</spring.framework.version>
-		<spring.security.version>4.2.7.RELEASE</spring.security.version>
+		<spring.security.version>5.5.7</spring.security.version>
 	</properties>
 
 
