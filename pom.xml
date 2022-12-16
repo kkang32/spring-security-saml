@@ -61,7 +61,7 @@
 		<url>https://github.com/SpringSource/spring-security-saml</url>
 	</scm>
 	<properties>
-		<spring.framework.version>4.3.18.RELEASE</spring.framework.version>
+		<spring.framework.version>5.2.20.RELEASE</spring.framework.version>
 		<spring.security.version>4.2.7.RELEASE</spring.security.version>
 	</properties>
 
